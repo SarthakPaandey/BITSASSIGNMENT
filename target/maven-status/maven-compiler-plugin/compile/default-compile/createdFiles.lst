@@ -1,0 +1,11 @@
+com/bitsassignment/dto/BookAuthorDTO.class
+com/bitsassignment/BitsassignmentApplication.class
+com/bitsassignment/repository/AuthorRepository.class
+com/bitsassignment/controller/AuthorController.class
+com/bitsassignment/service/AuthorService.class
+com/bitsassignment/model/Book.class
+com/bitsassignment/controller/BookController.class
+com/bitsassignment/model/Author.class
+com/bitsassignment/config/WebMvcConfig.class
+com/bitsassignment/repository/BookRepository.class
+com/bitsassignment/service/BookService.class

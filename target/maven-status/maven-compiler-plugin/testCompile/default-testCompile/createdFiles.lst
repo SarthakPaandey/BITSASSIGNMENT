@@ -1,0 +1,4 @@
+com/bitsassignment/repository/BookRepositoryTest.class
+com/bitsassignment/repository/AuthorRepositoryTest.class
+com/bitsassignment/service/BookServiceTest.class
+com/bitsassignment/service/AuthorServiceTest.class
